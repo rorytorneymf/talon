@@ -312,8 +312,8 @@ def test_short_quotation_with_newline():
 On Tue, Jan 27, 2015 at 12:42 PM -0800, "Company" <christine.XXX@XXX.com> wrote:
 
 Hi Mark,
-Blah blah? 
-Thanks,Christine 
+Blah blah? 
+Thanks,Christine 
 
 On Jan 27, 2015, at 11:55 AM, Mark XXX <mark@XXX.com> wrote:
 
